@@ -6,6 +6,8 @@
 
 **תוכנית חפיפה - צוות גלי ישראל** · פרוטוטייפ (Frontend בלבד)
 
+> 📋 **התוכנית המלאה, 45 המשימות והמעקב:** [docs/ONBOARDING-PLAN.md](docs/ONBOARDING-PLAN.md) · מעקב שוטף ב-Issues וב-Milestones של הריפו.
+
 ---
 
 ## מה זה?
